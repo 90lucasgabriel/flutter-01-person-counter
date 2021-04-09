@@ -16,7 +16,7 @@
 ## 1. Introduction
 Person counter with states.
 
-<div align="center">
+<div align="center" height="300px">
   https://www.loom.com/share/2e60d9754a2c46918e1ecb7881a2e74f
   
 </div>
